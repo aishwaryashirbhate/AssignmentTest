@@ -1,0 +1,48 @@
+{[{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "comments":[
+  {
+    "id": 1,
+    "body": "some comment",
+    "postId": 1
+  },
+  {
+    "id": 2,
+    "body": "some comment",
+    "postId": 1
+  }
+]
+},
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "foobar"
+    }
+  ],
+  "profile": {
+    "name": "Aishwarya"
+  },
+  "comments":[
+  {
+    "id": 1,
+    "body": "Hello world",
+    "postId": 1
+  },
+  {
+    "id": 2,
+    "body": "random",
+    "postId": 1
+  }
+]
+}
+]
+}
